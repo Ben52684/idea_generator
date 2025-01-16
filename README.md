@@ -96,5 +96,4 @@ Interact with the chat interface to generate ideas.
 Ideas are automatically stored for future use.
 
 🙌 Acknowledgments
-OpenAI for their amazing ChatGPT API.
-The open-source community for their contributions to tools and libraries.
+OpenAI for their ChatGPT API.
