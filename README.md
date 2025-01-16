@@ -1,4 +1,5 @@
 🚀 Hackathon Idea Generator
+
 A web application designed to spark creativity by generating hackathon ideas using OpenAI's ChatGPT API. This project was developed as part of a challenge, combining Django (backend) and Vue.js (frontend).
 
 📖 Table of Contents
