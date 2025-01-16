@@ -4,7 +4,7 @@ A web application designed to spark creativity by generating hackathon ideas usi
 
 📖 Table of Contents
 
-**Overview
+Overview
 
 Features
 
@@ -14,35 +14,40 @@ Setup and Installation
 
 Usage
 
-Acknowledgments**
-
 🔍 Overview
 The Hackathon Idea Generator is a tool designed to help developers, designers, and enthusiasts brainstorm innovative ideas for hackathons. It provides a chat-like interface where users can interact with OpenAI's ChatGPT API to generate personalized suggestions.
 
 Key Highlights:
+
 💬 Interactive Chat Interface: Engage with the AI for tailored suggestions.
+
 📱 Responsive UI: Optimized for all screen sizes.
+
 🔗 Integrated Deployment: The frontend's dist files are served by the Django backend.
+
 ✨ Features
 Generate unique and creative hackathon ideas.
 Save and retrieve previously generated ideas.
 User-friendly chat interface.
 Offline support for viewing saved ideas.
+
 🛠️ Tech Stack
 Frontend: Vue.js, Shadcn-vue
 Backend: Django, Django REST Framework
 Database: SQLite
 API Integration: OpenAI ChatGPT API
 Deployment: Frontend dist files served by Django backend
+
 ⚙️ Setup and Installation
 Prerequisites
 Python 3.10+
 Node.js 18+
 npm or yarn
 OpenAI API Key
-Backend and Frontend Setup
-Clone the repository:
 
+**Backend and Frontend Setup**
+
+Clone the repository:
 
 git clone https://github.com/Ben52684/idea_generator
 cd hackathon-idea-generator
