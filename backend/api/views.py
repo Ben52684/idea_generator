@@ -4,12 +4,14 @@ from django.shortcuts import render
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework import status
+
 from .models import Chat, HackathonIdea
 from openai import OpenAI
 from django.conf import settings
 from django.http import JsonResponse
 from .serializers import HackathonIdeaSerializer
 
+import os
 import re
 
 
